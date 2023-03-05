@@ -1,0 +1,19 @@
+body {
+    background: #f0ffff;
+}
+
+#frm {
+    border: solid grey 1px;
+    width: 25%;
+    border-radius: 2px;
+    margin: 120px auto;
+    background: asure;
+    padding: 50px;
+}
+
+#btn {
+    color: #fff;
+    background: #337ab7;
+    padding: 8px;
+    margin-left: 70%;
+}
